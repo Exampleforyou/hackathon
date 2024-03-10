@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (It_purple_hack)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b76cf0d3-bad4-4808-aace-9132e859ba47" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (hackathon)" project-jdk-type="Python SDK" />
+</project>

@@ -1,0 +1,1 @@
+print(*[f"\"https://www.cbr.ru/about_br/publ/vestnik-akts/?year={i}\"," for i in range(1999,2025)],sep='\n')
